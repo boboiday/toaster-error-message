@@ -8,7 +8,7 @@ A make.fun entry for **The Funniest Toaster Error Message**: one line a kitchen
 toaster shows its owner when something goes wrong — deadpan, oddly formal,
 and one absurd detail.
 
-> Toast cycle aborted. The bread has unionized.
+> 7 a.m. You press toast. Crumb tray full, element on strike, bread unionized — insert bagel as negotiator.
 
 ## Run it
 
